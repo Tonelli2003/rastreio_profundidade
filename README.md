@@ -4,7 +4,7 @@ Sistema que, a partir de um vídeo (ou de imagens capturadas por webcam), **segm
 
 Trabalho entregue em Google Colab: o notebook contém o código documentado e o relatório de evidências.
 
-##integrantes
+#Integrantes
 | Nome | RM |
 |------|----|
 | Augusto Oliveira Codo de Sousa | RM562080 |
